@@ -2,6 +2,7 @@ public class Autos {
     String marca;
     String modelo;
     String color;
+    
 
     public String detalleAuto() {
         return "Marca: " + this.marca + "\n" +
